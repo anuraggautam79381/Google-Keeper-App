@@ -5,8 +5,6 @@ This is a Google Keeper app created using React and JavaScript. It allows users 
 ## Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 
 ## Features
 
